@@ -1,0 +1,7 @@
+#click-tracker {
+    display: table;
+}
+
+#click-tracker:hover {
+    color: #FF9000;
+}
